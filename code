@@ -4,9 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Register Form</title>
 </head>
 <body>
+    <p class="anmol"> Anmol </p>
    <form>
     <table>
         <tr>
@@ -44,7 +46,7 @@
         </tr>
         <tr>
             <td>
-                Country name :
+                Country number :
                 <select>
                     <option>Nepal</option>
                     <option>India</option>
@@ -54,6 +56,7 @@
                     <option>America</option>
                 </select>
             </td>
+            
         </tr>
         <tr>
             <td>
