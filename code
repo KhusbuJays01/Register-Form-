@@ -54,7 +54,6 @@
                 <option>Pakistan</option>
                 <option>America</option>
             </select>
-            <input type="country name" placeholder="country" name="">
         </tr>
         <tr>
             <td>
